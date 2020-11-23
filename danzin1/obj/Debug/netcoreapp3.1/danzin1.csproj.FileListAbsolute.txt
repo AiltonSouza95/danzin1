@@ -1,0 +1,13 @@
+C:\Users\ailto\source\repos\danzin1\danzin1\bin\Debug\netcoreapp3.1\danzin1.exe
+C:\Users\ailto\source\repos\danzin1\danzin1\bin\Debug\netcoreapp3.1\danzin1.deps.json
+C:\Users\ailto\source\repos\danzin1\danzin1\bin\Debug\netcoreapp3.1\danzin1.runtimeconfig.json
+C:\Users\ailto\source\repos\danzin1\danzin1\bin\Debug\netcoreapp3.1\danzin1.runtimeconfig.dev.json
+C:\Users\ailto\source\repos\danzin1\danzin1\bin\Debug\netcoreapp3.1\danzin1.dll
+C:\Users\ailto\source\repos\danzin1\danzin1\bin\Debug\netcoreapp3.1\danzin1.pdb
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.csprojAssemblyReference.cache
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.AssemblyInfoInputs.cache
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.AssemblyInfo.cs
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.csproj.CoreCompileInputs.cache
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.dll
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.pdb
+C:\Users\ailto\source\repos\danzin1\danzin1\obj\Debug\netcoreapp3.1\danzin1.genruntimeconfig.cache

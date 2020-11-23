@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/q4ximTlw8LwQqfAr4zbiuE/BmwB9aA6db/ez3p2oGkYby1eq7SZiF8VSV+gE9GGwEailP9Vv8bKwTAbXJ8M/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ailto\\source\\repos\\danzin1\\danzin1\\danzin1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ailto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
